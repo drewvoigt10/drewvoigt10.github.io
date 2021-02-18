@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Iowa City, IA"
   employer         :
-  pubmed           : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1nWgoqeTzmrQt/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=hXzzCD4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
