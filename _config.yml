@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Drew Voigt"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MD/PhD Student (M5G) at the University of Iowa"
   location         : "Iowa City, IA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1nWgoqeTzmrQt/bibliography/public/"
