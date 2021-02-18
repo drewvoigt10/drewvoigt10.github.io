@@ -1,14 +1,14 @@
 # main links links
 main:
   - title: "Publications"
-    url: drewvoigt10.github.io/publications/
+    url: /publications/
 
   - title: "CV"
-    url: drewvoigt10.github.io/cv/    
+    url: /cv/    
 
   - title: "Personal"
-    url: drewvoigt10.github.io/personal/    
+    url: /personal/    
         
   - title: "Blog Posts"
-    url: drewvoigt10.github.io/year-archive/
+    url: /year-archive/
     
