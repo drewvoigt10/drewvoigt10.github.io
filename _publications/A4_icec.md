@@ -5,7 +5,7 @@ permalink: /publication/icec
 venue: 'Stem Cell Research & Therapy'
 date: 2020/09/23
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/32967716/'
-citation: 'Mulfaul, K., Giacalone, J.C., <b> Voigt, A.P. <b>, Riker, M.J., Ochoa, D., Han, I.C., Stone, E.M., Mullins, R.F., Tucker, B.A. Stepwise differentiation and functional characterization of human induced pluripotent stem cell-derived choroidal endothelial cells. Stem cell research & therapy 2020.'
+citation: 'Mulfaul, K., Giacalone, J.C., <b> Voigt, A.P. </b>, Riker, M.J., Ochoa, D., Han, I.C., Stone, E.M., Mullins, R.F., Tucker, B.A. Stepwise differentiation and functional characterization of human induced pluripotent stem cell-derived choroidal endothelial cells. Stem cell research & therapy 2020.'
 ---
 
 Background: Endothelial cells (ECs) are essential regulators of the vasculature, lining arteries, veins, and capillary beds. While all ECs share a number of structural and molecular features, heterogeneity exists depending on their resident tissue. ECs lining the choriocapillaris in the human eye are lost early in the pathogenesis of age-related macular degeneration (AMD), a common and devastating form of vision loss. In order to study the mechanisms leading to choroidal endothelial cell (CEC) loss and to develop reagents for repairing the choroid, a reproducible in vitro model, which closely mimic CECs, is needed. While a number of protocols have been published to direct induced pluripotent stem cells (iPSCs) into ECs, the goal of this study was to develop methods to differentiate iPSCs into ECs resembling those found in the human choriocapillaris specifically.
