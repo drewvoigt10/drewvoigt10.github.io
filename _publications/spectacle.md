@@ -1,5 +1,5 @@
 ---
-title: "Single-cell RNA sequencing in vision research: Insights into human retinal health and disease"
+title: "Spectacle: An interactive resource for ocular single-cell RNA sequencing data analysis"
 collection: publications
 permalink: /publication/spectacle
 venue: 'Experimental Eye Research'

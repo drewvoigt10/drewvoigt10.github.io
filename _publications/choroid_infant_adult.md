@@ -1,5 +1,5 @@
 ---
-title: "Single-cell RNA sequencing in vision research: Insights into human retinal health and disease"
+title: "Bulk and single-cell gene expression analyses reveal aging human choriocapillaris has pro-inflammatory phenotype"
 collection: publications
 permalink: /publication/choroid_infant_adult
 venue: 'Microvascular Research'
