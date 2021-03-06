@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About
 
 My name is Drew Voigt, and I am a 5th-year graduate student in the University of Iowa's Medical Scientist Training Program. This is my personal website.
 
