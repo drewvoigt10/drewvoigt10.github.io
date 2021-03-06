@@ -5,7 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
+
 {% include base_path %}
 
 # Education
@@ -30,12 +34,11 @@ redirect_from:
 -   Computational Research Data Scientist: HematoLogics, Seattle WA
 
     -   Developed a machine-learning based algorithm for flow cytometry
-        data capable of detecting
-        leukemic cell populations in the blood and bone marrow.
+        data capable of detecting leukemic cell populations in the blood
+        and bone marrow.
     -   Implemented a hierarchical clustering algorithm that groups
-        acute myeloid leukemia patients
-        with similar immunophenotypes into clinically significant risk
-        classes.
+        acute myeloid leukemia patients with similar immunophenotypes
+        into clinically significant risk classes.
     -   Supervisors: Dr. Lisa Brodersen and Dr. Michael Loken
 
 # Grants
@@ -43,27 +46,18 @@ redirect_from:
 **Ruth L. Kirschstein F30 Graduate Student Fellowship (EY031923):** The
 Membrane Attack Complex and Choriocapillaris in Health and Age-Related
 Macular Degeneration National Eye Institute, National Institutes of
-Health (\$163,393).     
+Health (\$163,393).
 
 # Honors and Awards
 
-Association for Research in Vision and Ophthalmology Travel
-Award                           2021
-
-Carver College of Medicine Trainee Travel
-Award                                         2020
-
-John Stokes Award for Research in Internal
-Medicine                                       2017
-
-Phi Beta Kappa Induction, St. Olaf
-College                                                2014
-
-Departmental Distinction Award in Biomolecular Science, St. Olaf
-College                       2014
-
-Dean's List, St. Olaf
-College                                                    2010 - 2014
+-   Association for Research in Vision and Ophthalmology Travel Award
+    (2021)
+-   Carver College of Medicine Trainee Travel Award (2020)
+-   John Stokes Award for Research in Internal Medicine (2017)
+-   Phi Beta Kappa Induction, St. Olaf College (2014)
+-   Departmental Distinction Award in Biomolecular Science, St. Olaf
+    College (2014)
+-   Dean's List, St. Olaf College (2010 - 2014)
 
 # Teaching Experience
 
