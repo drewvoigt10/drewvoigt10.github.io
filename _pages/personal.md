@@ -6,54 +6,88 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+-   MD/PhD candidate, Carver College of Medicine \@ University of Iowa,
+    2016 - Present
+-   BA in Mathematics, St. Olaf College, 2010 - 2014
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Research experience
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-   Graduate Research Assistant: University of Iowa MSTP
+
+    -   Developed single-cell RNA-sequencing protocols for post-mortem
+        human ocular tissue.
+    -   Analyzed single-cell expression data from retina, retinal
+        pigment epithelium, and choroid in the context of health,
+        age-related macular degeneration, and autoimmune retinopathy.
+    -   Authored Spectacle, an interactive web platform for analyzing
+        single-cell RNA sequencing data.
+    -   Thesis mentors: Dr. Robert Mullins and Dr. Todd Scheetz
+
+-   Computational Research Data Scientist: HematoLogics, Seattle WA
+
+    -   Developed a machine-learning based algorithm for flow cytometry
+        data capable of detecting
+        leukemic cell populations in the blood and bone marrow.
+    -   Implemented a hierarchical clustering algorithm that groups
+        acute myeloid leukemia patients
+        with similar immunophenotypes into clinically significant risk
+        classes.
+    -   Supervisors: Dr. Lisa Brodersen and Dr. Michael Loken
+
+# Grants
+
+**Ruth L. Kirschstein F30 Graduate Student Fellowship (EY031923):** The
+Membrane Attack Complex and Choriocapillaris in Health and Age-Related
+Macular Degeneration National Eye Institute, National Institutes of
+Health (\$163,393).     
+
+# Honors and Awards
+
+Association for Research in Vision and Ophthalmology Travel
+Award                           2021
+
+Carver College of Medicine Trainee Travel
+Award                                         2020
+
+John Stokes Award for Research in Internal
+Medicine                                       2017
+
+Phi Beta Kappa Induction, St. Olaf
+College                                                2014
+
+Departmental Distinction Award in Biomolecular Science, St. Olaf
+College                       2014
+
+Dean's List, St. Olaf
+College                                                    2010 - 2014
+
+# Teaching Experience
+
+-   Computational Genomics Teaching Assistant: University of Iowa, 2020
+-   Mechanisms of Health and Disease III Group Tutor: University of
+    Iowa, 2018
+-   Medical Gross Human Anatomy Group Tutor: University of Iowa, 2017
+
+# Patents
+
+US Patent Application 20200158734. SYSTEM, METHOD, AND ARTICLE FOR
+DETECTING ABNORMAL CELLS USING MULTI-DIMENSIONAL ANALYSIS. Inventors:
+Michael R Loken and Andrew P Voigt.
+
+# Publications
+
+<ul>
+
+{% for post in site.publications %} {% include archive-single-cv.html %}
+{% endfor %}
+
+</ul>
+
+# Service and leadership
+
+-   Founder and President, Spectrum Soccer - a soccer camp for children
+    on the autism spectrum.
