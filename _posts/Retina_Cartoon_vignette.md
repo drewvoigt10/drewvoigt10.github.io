@@ -12,7 +12,7 @@ am studying. While these overview figures have been great for papers and
 presentations, I have often wanted to interact with these figures within
 R itself. I thought it would be useful to recolor parts of the cartoon
 (specifically different cell populations in a tissue) according to some
-quantitative characteristic (in my case, this was usally gene expression
+quantitative characteristic (in my case, this was usually gene expression
 information).
 
 My desire to interact with cartoons in R has been especially strong when
