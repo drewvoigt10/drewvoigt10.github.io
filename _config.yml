@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Drew Voigt"
 title_separator          : "-"
 name                     : &name "Drew Voigt"
 description              : &description "a blog for academic and personal content"
