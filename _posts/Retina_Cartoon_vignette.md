@@ -1,7 +1,11 @@
 ---
 title: "RetinaCartoon"
 date: 2021-09-07
-tags: scRNA-seq choroid
+permalink: /posts/2021/09/Retina_Cartoon/
+tags:
+  - retina
+  - scRNA-seq
+  - RStats
 ---
 
 ## Using R to Create Cartoon Heatmaps
