@@ -1,0 +1,22 @@
+---
+title: "RetinaCartoon"
+description: |
+  Visualizing genetic expression data using a hand-drawn cartoon in R
+author:
+  - name: Drew Voigt
+date: 09-07-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
