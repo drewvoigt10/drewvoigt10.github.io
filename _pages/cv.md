@@ -14,7 +14,7 @@ editor_options:
 
 # Education
 
--   MD/PhD candidate, Carver College of Medicine \@ University of Iowa,
+-   MD/PhD candidate, Carver College of Medicine, University of Iowa,
     2016 - Present
 -   BA in Mathematics, St. Olaf College, 2010 - 2014
 
