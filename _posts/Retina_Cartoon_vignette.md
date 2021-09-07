@@ -175,7 +175,7 @@ unique_colors %>%
     scale_fill_manual(values = sort(unique_colors$color))
 ```
 
-![](Retina_Cartoon_vignette_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](/Retina_Cartoon_vignette_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 ### Creating our dictionary
 
