@@ -3,7 +3,8 @@ title: "RetinaCartoon Vignette"
 author: "Drew Voigt"
 date: "9/1/2021"
 output: 
-  distill::distill_article:
+  md_document:
+      variant: markdown_github
 editor_options: 
   chunk_output_type: console
 ---
